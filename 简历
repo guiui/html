@@ -1,0 +1,15 @@
+<!DOCYPE html>
+<html><head>
+<title>this a my bio</title></head>
+<bady>
+  <h1>简历<h1>
+  <form method="post" action="save.php">
+    <lsbel for="name">姓名</lsbel>
+    <input type="text" name="username" id="username" value="" />
+    <lsbel for="bio">学历</lsbel>
+    <input type="text" bio="username" id="username" value="" />
+    <lsbel for="bio">联系方式</lsbel>
+    <input type="text" bio="username" id="username" value="" />
+  </form>
+</bady>
+</html>
